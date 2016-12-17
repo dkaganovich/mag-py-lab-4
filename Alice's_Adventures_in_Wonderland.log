@@ -1,0 +1,150 @@
+
+Config: 
+-Start page: https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland
+-Depth: 100
+
+Iteration: 1
+-Fetching: https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland
+-Parsing: https://en.wikipedia.org/wiki/Alice's_Adventures_in_Wonderland
+-Link: https://en.wikipedia.org/wiki/English_novel
+-Sleeping (5s) ... 
+Iteration: 2
+-Fetching: https://en.wikipedia.org/wiki/English_novel
+-Parsing: https://en.wikipedia.org/wiki/English_novel
+-Link: https://en.wikipedia.org/wiki/English_literature
+-Sleeping (5s) ... 
+Iteration: 3
+-Fetching: https://en.wikipedia.org/wiki/English_literature
+-Parsing: https://en.wikipedia.org/wiki/English_literature
+-Link: https://en.wikipedia.org/wiki/England
+-Sleeping (5s) ... 
+Iteration: 4
+-Fetching: https://en.wikipedia.org/wiki/England
+-Parsing: https://en.wikipedia.org/wiki/England
+-Link: https://en.wikipedia.org/wiki/Country
+-Sleeping (5s) ... 
+Iteration: 5
+-Fetching: https://en.wikipedia.org/wiki/Country
+-Parsing: https://en.wikipedia.org/wiki/Country
+-Link: https://en.wikipedia.org/wiki/Political_geography
+-Sleeping (5s) ... 
+Iteration: 6
+-Fetching: https://en.wikipedia.org/wiki/Political_geography
+-Parsing: https://en.wikipedia.org/wiki/Political_geography
+-Link: https://en.wikipedia.org/wiki/Politics
+-Sleeping (5s) ... 
+Iteration: 7
+-Fetching: https://en.wikipedia.org/wiki/Politics
+-Parsing: https://en.wikipedia.org/wiki/Politics
+-Link: https://en.wikipedia.org/wiki/Governance
+-Sleeping (5s) ... 
+Iteration: 8
+-Fetching: https://en.wikipedia.org/wiki/Governance
+-Parsing: https://en.wikipedia.org/wiki/Governance
+-Link: https://en.wikipedia.org/wiki/Government
+-Sleeping (5s) ... 
+Iteration: 9
+-Fetching: https://en.wikipedia.org/wiki/Government
+-Parsing: https://en.wikipedia.org/wiki/Government
+-Link: https://en.wikipedia.org/wiki/State_(polity)
+-Sleeping (5s) ... 
+Iteration: 10
+-Fetching: https://en.wikipedia.org/wiki/State_(polity)
+-Parsing: https://en.wikipedia.org/wiki/State_(polity)
+-Link: https://en.wikipedia.org/wiki/Polity
+-Sleeping (5s) ... 
+Iteration: 11
+-Fetching: https://en.wikipedia.org/wiki/Polity
+-Parsing: https://en.wikipedia.org/wiki/Polity
+-Link: https://en.wikipedia.org/wiki/Entity
+-Sleeping (5s) ... 
+Iteration: 12
+-Fetching: https://en.wikipedia.org/wiki/Entity
+-Parsing: https://en.wikipedia.org/wiki/Entity
+-Link: https://en.wikipedia.org/wiki/Existence
+-Sleeping (5s) ... 
+Iteration: 13
+-Fetching: https://en.wikipedia.org/wiki/Existence
+-Parsing: https://en.wikipedia.org/wiki/Existence
+-Link: https://en.wikipedia.org/wiki/Independence
+-Sleeping (5s) ... 
+Iteration: 14
+-Fetching: https://en.wikipedia.org/wiki/Independence
+-Parsing: https://en.wikipedia.org/wiki/Independence
+-Link: https://en.wikipedia.org/wiki/Nation
+-Sleeping (5s) ... 
+Iteration: 15
+-Fetching: https://en.wikipedia.org/wiki/Nation
+-Parsing: https://en.wikipedia.org/wiki/Nation
+-Link: https://en.wikipedia.org/wiki/Language
+-Sleeping (5s) ... 
+Iteration: 16
+-Fetching: https://en.wikipedia.org/wiki/Language
+-Parsing: https://en.wikipedia.org/wiki/Language
+-Link: https://en.wikipedia.org/wiki/Communication
+-Sleeping (5s) ... 
+Iteration: 17
+-Fetching: https://en.wikipedia.org/wiki/Communication
+-Parsing: https://en.wikipedia.org/wiki/Communication
+-Link: https://en.wikipedia.org/wiki/Meaning_(semiotics)
+-Sleeping (5s) ... 
+Iteration: 18
+-Fetching: https://en.wikipedia.org/wiki/Meaning_(semiotics)
+-Parsing: https://en.wikipedia.org/wiki/Meaning_(semiotics)
+-Link: https://en.wikipedia.org/wiki/Semiotics
+-Sleeping (5s) ... 
+Iteration: 19
+-Fetching: https://en.wikipedia.org/wiki/Semiotics
+-Parsing: https://en.wikipedia.org/wiki/Semiotics
+-Link: https://en.wikipedia.org/wiki/Meaning-making
+-Sleeping (5s) ... 
+Iteration: 20
+-Fetching: https://en.wikipedia.org/wiki/Meaning-making
+-Parsing: https://en.wikipedia.org/wiki/Meaning-making
+-Link: https://en.wikipedia.org/wiki/Psychology
+-Sleeping (5s) ... 
+Iteration: 21
+-Fetching: https://en.wikipedia.org/wiki/Psychology
+-Parsing: https://en.wikipedia.org/wiki/Psychology
+-Link: https://en.wikipedia.org/wiki/Behavior
+-Sleeping (5s) ... 
+Iteration: 22
+-Fetching: https://en.wikipedia.org/wiki/Behavior
+-Parsing: https://en.wikipedia.org/wiki/Behavior
+-Link: https://en.wikipedia.org/wiki/Organism
+-Sleeping (5s) ... 
+Iteration: 23
+-Fetching: https://en.wikipedia.org/wiki/Organism
+-Parsing: https://en.wikipedia.org/wiki/Organism
+-Link: https://en.wikipedia.org/wiki/Biology
+-Sleeping (5s) ... 
+Iteration: 24
+-Fetching: https://en.wikipedia.org/wiki/Biology
+-Parsing: https://en.wikipedia.org/wiki/Biology
+-Link: https://en.wikipedia.org/wiki/Natural_science
+-Sleeping (5s) ... 
+Iteration: 25
+-Fetching: https://en.wikipedia.org/wiki/Natural_science
+-Parsing: https://en.wikipedia.org/wiki/Natural_science
+-Link: https://en.wikipedia.org/wiki/Science
+-Sleeping (5s) ... 
+Iteration: 26
+-Fetching: https://en.wikipedia.org/wiki/Science
+-Parsing: https://en.wikipedia.org/wiki/Science
+-Link: https://en.wikipedia.org/wiki/Knowledge
+-Sleeping (5s) ... 
+Iteration: 27
+-Fetching: https://en.wikipedia.org/wiki/Knowledge
+-Parsing: https://en.wikipedia.org/wiki/Knowledge
+-Link: https://en.wikipedia.org/wiki/Awareness
+-Sleeping (5s) ... 
+Iteration: 28
+-Fetching: https://en.wikipedia.org/wiki/Awareness
+-Parsing: https://en.wikipedia.org/wiki/Awareness
+-Link: https://en.wikipedia.org/wiki/Quality_(philosophy)
+-Sleeping (5s) ... 
+Iteration: 29
+-Fetching: https://en.wikipedia.org/wiki/Quality_(philosophy)
+-Parsing: https://en.wikipedia.org/wiki/Quality_(philosophy)
+-Link: https://en.wikipedia.org/wiki/Philosophy
+-Sleeping (5s) ... 

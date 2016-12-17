@@ -1,0 +1,50 @@
+
+Config: 
+-Start page: https://en.wikipedia.org/wiki/Python_(programming_language)
+-Depth: 10
+
+Iteration: 1
+-Fetching: https://en.wikipedia.org/wiki/Python_(programming_language)
+-Parsing: https://en.wikipedia.org/wiki/Python_(programming_language)
+-Link: https://en.wikipedia.org/wiki/High-level_programming_language
+-Sleeping (5s) ... 
+Iteration: 2
+-Fetching: https://en.wikipedia.org/wiki/High-level_programming_language
+-Parsing: https://en.wikipedia.org/wiki/High-level_programming_language
+-Link: https://en.wikipedia.org/wiki/Computer_science
+-Sleeping (5s) ... 
+Iteration: 3
+-Fetching: https://en.wikipedia.org/wiki/Computer_science
+-Parsing: https://en.wikipedia.org/wiki/Computer_science
+-Link: https://en.wikipedia.org/wiki/Computer
+-Sleeping (5s) ... 
+Iteration: 4
+-Fetching: https://en.wikipedia.org/wiki/Computer
+-Parsing: https://en.wikipedia.org/wiki/Computer
+-Link: https://en.wikipedia.org/wiki/Computer_programming
+-Sleeping (5s) ... 
+Iteration: 5
+-Fetching: https://en.wikipedia.org/wiki/Computer_programming
+-Parsing: https://en.wikipedia.org/wiki/Computer_programming
+-Link: https://en.wikipedia.org/wiki/Computing
+-Sleeping (5s) ... 
+Iteration: 6
+-Fetching: https://en.wikipedia.org/wiki/Computing
+-Parsing: https://en.wikipedia.org/wiki/Computing
+-Link: https://en.wikipedia.org/wiki/Mathematics
+-Sleeping (5s) ... 
+Iteration: 7
+-Fetching: https://en.wikipedia.org/wiki/Mathematics
+-Parsing: https://en.wikipedia.org/wiki/Mathematics
+-Link: https://en.wikipedia.org/wiki/Quantity
+-Sleeping (5s) ... 
+Iteration: 8
+-Fetching: https://en.wikipedia.org/wiki/Quantity
+-Parsing: https://en.wikipedia.org/wiki/Quantity
+-Link: https://en.wikipedia.org/wiki/Property_(philosophy)
+-Sleeping (5s) ... 
+Iteration: 9
+-Fetching: https://en.wikipedia.org/wiki/Property_(philosophy)
+-Parsing: https://en.wikipedia.org/wiki/Property_(philosophy)
+-Link: https://en.wikipedia.org/wiki/Philosophy
+-Sleeping (5s) ... 

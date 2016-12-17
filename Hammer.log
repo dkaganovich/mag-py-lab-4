@@ -1,0 +1,55 @@
+
+Config: 
+-Start page: https://en.wikipedia.org/wiki/Hammer
+-Depth: 100
+
+Iteration: 1
+-Fetching: https://en.wikipedia.org/wiki/Hammer
+-Parsing: https://en.wikipedia.org/wiki/Hammer
+-Link: https://en.wikipedia.org/wiki/Tool
+-Sleeping (5s) ... 
+Iteration: 2
+-Fetching: https://en.wikipedia.org/wiki/Tool
+-Parsing: https://en.wikipedia.org/wiki/Tool
+-Link: https://en.wikipedia.org/wiki/Matter
+-Sleeping (5s) ... 
+Iteration: 3
+-Fetching: https://en.wikipedia.org/wiki/Matter
+-Parsing: https://en.wikipedia.org/wiki/Matter
+-Link: https://en.wikipedia.org/wiki/Classical_physics
+-Sleeping (5s) ... 
+Iteration: 4
+-Fetching: https://en.wikipedia.org/wiki/Classical_physics
+-Parsing: https://en.wikipedia.org/wiki/Classical_physics
+-Link: https://en.wikipedia.org/wiki/Physics
+-Sleeping (5s) ... 
+Iteration: 5
+-Fetching: https://en.wikipedia.org/wiki/Physics
+-Parsing: https://en.wikipedia.org/wiki/Physics
+-Link: https://en.wikipedia.org/wiki/Natural_science
+-Sleeping (5s) ... 
+Iteration: 6
+-Fetching: https://en.wikipedia.org/wiki/Natural_science
+-Parsing: https://en.wikipedia.org/wiki/Natural_science
+-Link: https://en.wikipedia.org/wiki/Science
+-Sleeping (5s) ... 
+Iteration: 7
+-Fetching: https://en.wikipedia.org/wiki/Science
+-Parsing: https://en.wikipedia.org/wiki/Science
+-Link: https://en.wikipedia.org/wiki/Knowledge
+-Sleeping (5s) ... 
+Iteration: 8
+-Fetching: https://en.wikipedia.org/wiki/Knowledge
+-Parsing: https://en.wikipedia.org/wiki/Knowledge
+-Link: https://en.wikipedia.org/wiki/Awareness
+-Sleeping (5s) ... 
+Iteration: 9
+-Fetching: https://en.wikipedia.org/wiki/Awareness
+-Parsing: https://en.wikipedia.org/wiki/Awareness
+-Link: https://en.wikipedia.org/wiki/Quality_(philosophy)
+-Sleeping (5s) ... 
+Iteration: 10
+-Fetching: https://en.wikipedia.org/wiki/Quality_(philosophy)
+-Parsing: https://en.wikipedia.org/wiki/Quality_(philosophy)
+-Link: https://en.wikipedia.org/wiki/Philosophy
+-Sleeping (5s) ... 

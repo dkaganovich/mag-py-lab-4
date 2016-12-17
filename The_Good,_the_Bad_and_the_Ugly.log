@@ -1,0 +1,30 @@
+
+Config: 
+-Start page: https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly
+-Depth: 100
+
+Iteration: 1
+-Fetching: https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly
+-Parsing: https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly
+-Link: https://en.wikipedia.org/wiki/Epic_(genre)
+-Sleeping (5s) ... 
+Iteration: 2
+-Fetching: https://en.wikipedia.org/wiki/Epic_(genre)
+-Parsing: https://en.wikipedia.org/wiki/Epic_(genre)
+-Link: https://en.wikipedia.org/wiki/Genre
+-Sleeping (5s) ... 
+Iteration: 3
+-Fetching: https://en.wikipedia.org/wiki/Genre
+-Parsing: https://en.wikipedia.org/wiki/Genre
+-Link: https://en.wikipedia.org/wiki/Category_of_being
+-Sleeping (5s) ... 
+Iteration: 4
+-Fetching: https://en.wikipedia.org/wiki/Category_of_being
+-Parsing: https://en.wikipedia.org/wiki/Category_of_being
+-Link: https://en.wikipedia.org/wiki/Ontology
+-Sleeping (5s) ... 
+Iteration: 5
+-Fetching: https://en.wikipedia.org/wiki/Ontology
+-Parsing: https://en.wikipedia.org/wiki/Ontology
+-Link: https://en.wikipedia.org/wiki/Philosophy
+-Sleeping (5s) ... 

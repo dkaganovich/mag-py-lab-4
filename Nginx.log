@@ -1,0 +1,50 @@
+
+Config: 
+-Start page: https://en.wikipedia.org/wiki/Nginx
+-Depth: 100
+
+Iteration: 1
+-Fetching: https://en.wikipedia.org/wiki/Nginx
+-Parsing: https://en.wikipedia.org/wiki/Nginx
+-Link: https://en.wikipedia.org/wiki/Web_server
+-Sleeping (5s) ... 
+Iteration: 2
+-Fetching: https://en.wikipedia.org/wiki/Web_server
+-Parsing: https://en.wikipedia.org/wiki/Web_server
+-Link: https://en.wikipedia.org/wiki/HTTP
+-Sleeping (5s) ... 
+Iteration: 3
+-Fetching: https://en.wikipedia.org/wiki/HTTP
+-Parsing: https://en.wikipedia.org/wiki/HTTP
+-Link: https://en.wikipedia.org/wiki/Application_protocol
+-Sleeping (5s) ... 
+Iteration: 4
+-Fetching: https://en.wikipedia.org/wiki/Application_protocol
+-Parsing: https://en.wikipedia.org/wiki/Application_protocol
+-Link: https://en.wikipedia.org/wiki/Abstraction_layer
+-Sleeping (5s) ... 
+Iteration: 5
+-Fetching: https://en.wikipedia.org/wiki/Abstraction_layer
+-Parsing: https://en.wikipedia.org/wiki/Abstraction_layer
+-Link: https://en.wikipedia.org/wiki/Computing
+-Sleeping (5s) ... 
+Iteration: 6
+-Fetching: https://en.wikipedia.org/wiki/Computing
+-Parsing: https://en.wikipedia.org/wiki/Computing
+-Link: https://en.wikipedia.org/wiki/Mathematics
+-Sleeping (5s) ... 
+Iteration: 7
+-Fetching: https://en.wikipedia.org/wiki/Mathematics
+-Parsing: https://en.wikipedia.org/wiki/Mathematics
+-Link: https://en.wikipedia.org/wiki/Quantity
+-Sleeping (5s) ... 
+Iteration: 8
+-Fetching: https://en.wikipedia.org/wiki/Quantity
+-Parsing: https://en.wikipedia.org/wiki/Quantity
+-Link: https://en.wikipedia.org/wiki/Property_(philosophy)
+-Sleeping (5s) ... 
+Iteration: 9
+-Fetching: https://en.wikipedia.org/wiki/Property_(philosophy)
+-Parsing: https://en.wikipedia.org/wiki/Property_(philosophy)
+-Link: https://en.wikipedia.org/wiki/Philosophy
+-Sleeping (5s) ... 
